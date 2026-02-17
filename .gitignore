@@ -1,0 +1,7 @@
+.metadata/
+.settings/
+bin/
+.classpath
+.project
+*.log
+replay_*.log
