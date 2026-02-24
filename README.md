@@ -53,16 +53,6 @@ Employee-Management-System
 
 
 ---
-
-## 🧩 Database Configuration
-
-Update database credentials inside **Conn.java**:
-
-```java
-String url = "jdbc:mysql://localhost:3306/employeemanagement";
-String username = "root";
-String password = "your_password";
-
 ## 📸 Project Screenshots
 
 ### 🔹 Splash / First Screen
@@ -88,3 +78,16 @@ String password = "your_password";
 
 ### 🔹 Remove Employee
 ![Remove Employee](images/Remove_employee_by_id.png)
+
+
+## 🧩 Database Configuration
+
+Update database credentials inside **Conn.java**:
+
+```java
+String url = "jdbc:mysql://localhost:3306/employeemanagement";
+String username = "root";
+String password = "your_password";
+
+
+
