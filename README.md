@@ -62,7 +62,7 @@ Employee-Management-System
 ![Login](images/Login.png)
 
 ### 🔹 Dashboard
-![Dashboard](images/Adsboard.png)
+![Dashboard](images/Adshboard.png)
 
 ### 🔹 Add Employee
 ![Add Employee](images/Add_Employee.png)
