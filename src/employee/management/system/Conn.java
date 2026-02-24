@@ -15,7 +15,7 @@ public class Conn {
 					"jdbc:mysql://localhost:3306/employee_management_system",
 					"root",
 					"raman@2002"
-					);
+					);  
 			s = c.createStatement();
 			
 		} catch (Exception e) {

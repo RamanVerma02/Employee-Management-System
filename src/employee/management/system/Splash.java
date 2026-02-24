@@ -47,6 +47,7 @@ public class Splash extends JFrame implements ActionListener{
 		// dim and show setting of heading
 		while(true) {
 			heading.setVisible(false);
+			
 			try {
 				Thread.sleep(500);
 			} catch (Exception e) {
@@ -54,6 +55,7 @@ public class Splash extends JFrame implements ActionListener{
 			}
 			
 			heading.setVisible(true);
+			
 			try {
 				Thread.sleep(500);
 			} catch (Exception e) {
