@@ -88,4 +88,3 @@ String password = "your_password";
 
 ### 🔹 Remove Employee
 ![Remove Employee](images/Remove_employee_by_id.png)
-
