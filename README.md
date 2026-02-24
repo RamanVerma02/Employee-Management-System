@@ -28,25 +28,28 @@ A **Java Swing + JDBC based Employee Management System** that allows organizatio
 ---
 
 ## 📂 Project Structure
+
+```
 Employee-Management-System
 │
 ├── src
-│ └── employee
-│ └── management
-│ └── system
-│ ├── AddEmployee.java
-│ ├── RemoveEmployee.java
-│ ├── UpdateEmployee.java
-│ ├── ViewEmployee.java
-│ ├── Login.java
-│ ├── Home.java
-│ ├── Splash.java
-│ └── Conn.java
+│   └── employee
+│       └── management
+│           └── system
+│               ├── AddEmployee.java
+│               ├── RemoveEmployee.java
+│               ├── UpdateEmployee.java
+│               ├── ViewEmployee.java
+│               ├── Login.java
+│               ├── Home.java
+│               ├── Splash.java
+│               └── Conn.java
 │
 ├── icons
 │
 ├── .gitignore
 └── README.md
+```
 
 
 ---
